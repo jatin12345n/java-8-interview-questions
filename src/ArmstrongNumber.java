@@ -11,7 +11,7 @@ public class ArmstrongNumber {
         while (originalNumber != 0)//TODO WE ARE GOING TO RUN THIS LOGIC UNTIL WE REACH TO 0
         {
             remainder = originalNumber % 10;//TODO HERE WE ARE TRYING TO EXTRACT LAST DIGIT FROM ORIGINAL NUMBER USING OPERATOR
-            result += Math.pow(remainder, 3);/*TODO HERE WE ARE DOING CUBE OF LAST DIGIT AND STRONG TO RESULT , EVERY TIME WE WILL
+            result += Math.pow(remainder, 3);/*TODO HERE WE ARE DOING CUBE OF LAST DIGIT AND STORING TO RESULT , EVERY TIME WE WILL
                                                     ALSO STORE PREVIOUS SUM SO THAT WE CAN COMPARE WITH FINAL SUM WITH ACTUAL NUMBER*/
 
             originalNumber /= 10;// TODO HERE WE ARE TRYING TO GET THE SECOND DIGIT FROM GIVEN NUMBER SO WE CAN EXTRACT NEXT DIGIT
