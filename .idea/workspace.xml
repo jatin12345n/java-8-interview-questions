@@ -4,14 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9234bd-1456-4a64-931e-1b57ff516c7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-8-interview-questions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArmstrongNumber.java" afterDir="false" />
+    <list default="true" id="ca9234bd-1456-4a64-931e-1b57ff516c7f" name="Changes" comment="Factorial....">
+      <change afterPath="$PROJECT_DIR$/src/PrintOneToTenWithoutUsingLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwapNumberWithoutThirdVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/A_FindMaximumAndMinimumList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/B_FindSecondLargestInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/C_SortListOfIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_1_FindDuplicateUsingString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_2_RemoveDuplicateFromListOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_3_FindStringWithLengthHigherThanFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_4_SortingOfStringList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_5_CountLettersInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_6_ReverseStringUsingJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/DemoA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/DemoB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/DemoC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/DemoInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/EmployeeMaxMinWithCollectors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/EmployeeSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/StudentProgrammingQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -36,25 +51,91 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "C:/WORKSPACE/java-8-interview-questions/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/WORKSPACE/java-8-interview-questions/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArmstrongNumber" />
+}</component>
+  <component name="RunManager" selected="Application.StudentProgrammingQuestions">
+    <configuration name="D_5_CountLettersInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_8_interview_programme.D_5_CountLettersInString" />
       <module name="java-8-interview-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_8_interview_programme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D_6_ReverseStringUsingJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_8_interview_programme.D_6_ReverseStringUsingJava8" />
+      <module name="java-8-interview-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_8_interview_programme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeMaxMinWithCollectors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_8_interview_programme.EmployeeMaxMinWithCollectors" />
+      <module name="java-8-interview-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_8_interview_programme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_8_interview_programme.EmployeeSorting" />
+      <module name="java-8-interview-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_8_interview_programme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentProgrammingQuestions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_8_interview_programme.StudentProgrammingQuestions" />
+      <module name="java-8-interview-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_8_interview_programme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArmstrongNumber" />
+        <item itemvalue="Application.StudentProgrammingQuestions" />
+        <item itemvalue="Application.EmployeeSorting" />
+        <item itemvalue="Application.EmployeeMaxMinWithCollectors" />
+        <item itemvalue="Application.D_6_ReverseStringUsingJava8" />
+        <item itemvalue="Application.D_5_CountLettersInString" />
       </list>
     </recent_temporary>
   </component>
@@ -67,9 +148,83 @@
       <option name="presentableId" value="Default" />
       <updated>1714719393934</updated>
     </task>
+    <task id="LOCAL-00001" summary="java 8 interview">
+      <option name="closed" value="true" />
+      <created>1714721656078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714721656078</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ARMSTRONG NUMBER">
+      <option name="closed" value="true" />
+      <created>1714721859115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714721859115</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Factorial....">
+      <option name="closed" value="true" />
+      <created>1715678454674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715678454674</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ArmstrongNumber">
+      <option name="closed" value="true" />
+      <created>1715678500276</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715678500276</updated>
+    </task>
+    <task id="LOCAL-00005" summary="FibonacciSeries....">
+      <option name="closed" value="true" />
+      <created>1715678555200</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715678555200</updated>
+    </task>
+    <task id="LOCAL-00006" summary="FindFrequencyOfNumberInArray....">
+      <option name="closed" value="true" />
+      <created>1715678595725</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715678595725</updated>
+    </task>
+    <task id="LOCAL-00007" summary="PalindromeNumberProgram....">
+      <option name="closed" value="true" />
+      <created>1715678642548</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715678642548</updated>
+    </task>
+    <task id="LOCAL-00008" summary="PalindromeStringProgram....">
+      <option name="closed" value="true" />
+      <created>1715678680689</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715678680689</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="java 8 interview" />
+    <MESSAGE value="ARMSTRONG NUMBER" />
+    <MESSAGE value="Factorial...." />
+    <MESSAGE value="ArmstrongNumber" />
+    <MESSAGE value="FibonacciSeries...." />
+    <MESSAGE value="FindFrequencyOfNumberInArray...." />
+    <MESSAGE value="PalindromeNumberProgram...." />
+    <MESSAGE value="PalindromeStringProgram...." />
+    <option name="LAST_COMMIT_MESSAGE" value="PalindromeStringProgram...." />
   </component>
 </project>
