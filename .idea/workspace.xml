@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca9234bd-1456-4a64-931e-1b57ff516c7f" name="Changes" comment="Factorial....">
-      <change afterPath="$PROJECT_DIR$/src/PrintOneToTenWithoutUsingLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwapNumberWithoutThirdVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/A_FindMaximumAndMinimumList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/B_FindSecondLargestInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/C_SortListOfIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_1_FindDuplicateUsingString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_2_RemoveDuplicateFromListOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_3_FindStringWithLengthHigherThanFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_4_SortingOfStringList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_5_CountLettersInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_6_ReverseStringUsingJava8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/DemoA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/DemoB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/DemoC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/DemoInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/EmployeeMaxMinWithCollectors.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/EmployeeSorting.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/StudentProgrammingQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/model/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -212,7 +194,119 @@
       <option name="project" value="LOCAL" />
       <updated>1715678680689</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="PrintOneToTenWithoutUsingLoop....">
+      <option name="closed" value="true" />
+      <created>1715678718747</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715678718747</updated>
+    </task>
+    <task id="LOCAL-00010" summary="SwapNumberWithoutThirdVariable....">
+      <option name="closed" value="true" />
+      <created>1715678759607</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715678759607</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Employee, Student">
+      <option name="closed" value="true" />
+      <created>1715678870123</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715678870123</updated>
+    </task>
+    <task id="LOCAL-00012" summary="A_FindMaximumAndMinimumList....">
+      <option name="closed" value="true" />
+      <created>1715678923915</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715678923915</updated>
+    </task>
+    <task id="LOCAL-00013" summary="B_FindSecondLargestInArray....">
+      <option name="closed" value="true" />
+      <created>1715678982971</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715678982971</updated>
+    </task>
+    <task id="LOCAL-00014" summary="C_SortListOfIntegers....">
+      <option name="closed" value="true" />
+      <created>1715679015835</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679015835</updated>
+    </task>
+    <task id="LOCAL-00015" summary="D_1_FindDuplicateUsingString....">
+      <option name="closed" value="true" />
+      <created>1715679056374</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679056374</updated>
+    </task>
+    <task id="LOCAL-00016" summary="D_2_RemoveDuplicateFromListOfString....">
+      <option name="closed" value="true" />
+      <created>1715679100666</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679100666</updated>
+    </task>
+    <task id="LOCAL-00017" summary="D_3_FindStringWithLengthHigherThanFive....">
+      <option name="closed" value="true" />
+      <created>1715679136150</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679136150</updated>
+    </task>
+    <task id="LOCAL-00018" summary="D_4_SortingOfStringList....">
+      <option name="closed" value="true" />
+      <created>1715679167103</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679167103</updated>
+    </task>
+    <task id="LOCAL-00019" summary="D_5_CountLettersInString....">
+      <option name="closed" value="true" />
+      <created>1715679203562</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679203562</updated>
+    </task>
+    <task id="LOCAL-00020" summary="D_6_ReverseStringUsingJava8....">
+      <option name="closed" value="true" />
+      <created>1715679236142</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679236142</updated>
+    </task>
+    <task id="LOCAL-00021" summary="DemoA, DemoB, DemoC, DemoInterface....">
+      <option name="closed" value="true" />
+      <created>1715679293878</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679293878</updated>
+    </task>
+    <task id="LOCAL-00022" summary="EmployeeMaxMinWithCollectors....">
+      <option name="closed" value="true" />
+      <created>1715679331068</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679331068</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -225,6 +319,20 @@
     <MESSAGE value="FindFrequencyOfNumberInArray...." />
     <MESSAGE value="PalindromeNumberProgram...." />
     <MESSAGE value="PalindromeStringProgram...." />
-    <option name="LAST_COMMIT_MESSAGE" value="PalindromeStringProgram...." />
+    <MESSAGE value="PrintOneToTenWithoutUsingLoop...." />
+    <MESSAGE value="SwapNumberWithoutThirdVariable...." />
+    <MESSAGE value="Employee, Student" />
+    <MESSAGE value="A_FindMaximumAndMinimumList...." />
+    <MESSAGE value="B_FindSecondLargestInArray...." />
+    <MESSAGE value="C_SortListOfIntegers...." />
+    <MESSAGE value="D_1_FindDuplicateUsingString...." />
+    <MESSAGE value="D_2_RemoveDuplicateFromListOfString...." />
+    <MESSAGE value="D_3_FindStringWithLengthHigherThanFive...." />
+    <MESSAGE value="D_4_SortingOfStringList...." />
+    <MESSAGE value="D_5_CountLettersInString...." />
+    <MESSAGE value="D_6_ReverseStringUsingJava8...." />
+    <MESSAGE value="DemoA, DemoB, DemoC, DemoInterface...." />
+    <MESSAGE value="EmployeeMaxMinWithCollectors...." />
+    <option name="LAST_COMMIT_MESSAGE" value="EmployeeMaxMinWithCollectors...." />
   </component>
 </project>
