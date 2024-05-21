@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-// TODO remove duplicate from strings using stream API
+//  TODO remove duplicate from strings using stream API
 public class D_2_RemoveDuplicateFromListOfString {
 
     public static void main(String[] args) {
@@ -16,9 +16,9 @@ public class D_2_RemoveDuplicateFromListOfString {
                 .distinct()
                 .collect(Collectors.toList());
 
-        //TODO we are using .asList method to create list , after that we have created stream using stringList.stream() method
-        // and we are avoiding duplicate in results so we are using distinct method
-        // where we are collecting output as a List so we are using Collectors.ToList() inside collect
+        // TODO we are using .asList method to create list , after that we have created stream using stringList.stream() method
+        //  and we are avoiding duplicate in results so we are using distinct method
+        //  where we are collecting output as a List so we are using Collectors.ToList() inside collect
 
         System.out.println(distinctString);
 

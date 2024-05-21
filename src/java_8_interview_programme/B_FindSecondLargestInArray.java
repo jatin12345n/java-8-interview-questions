@@ -1,12 +1,15 @@
 package java_8_interview_programme;
 
 import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Optional;
 
-//TODO find the second largest in an array using stream API
+//TODO find the second largest number in an array using stream API
 public class B_FindSecondLargestInArray {
 
     public static void main(String[] args) {
-        int[] numbers = {1, 2, 11, 12, 3, 4, 5, 6, 7, 8, 9};
+        int[] numbers = {5,55,99,44,66,88,33};
 
         int secondLargest = Arrays.stream(numbers)
                 .sorted()
@@ -24,6 +27,7 @@ public class B_FindSecondLargestInArray {
         // orElse(-1) will give -1 output if it does not find any second highest
 
         System.out.println("Second largest number in the array is:" + secondLargest);
+
 
     }
 }

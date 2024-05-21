@@ -4,7 +4,7 @@ public class FibonacciSeries {
     public static void main(String[] args) {
 
         int i = 1, n = 10, firstTerm = 0, secondTerm = 1;
-        //TODO HERE WE HAVE TAKEN 0 AND 1 AS FIRST TWO ELEMENT OF SERIES AND N OIS THE RANGE OF SERIES
+        //TODO HERE WE HAVE TAKEN 0 AND 1 AS FIRST TWO ELEMENT OF SERIES AND N O IS THE RANGE OF SERIES
         System.out.println("Fibonacci Series till " + n + "terms:");
         //TODO WE ARE GOING TO USE WHILE LOOP TO REPEAT THE BELOW LOGIC OF GENERATING NEXT TERM BY ADDING PREVIOUS TWO TERMS
         while (i <= n) {

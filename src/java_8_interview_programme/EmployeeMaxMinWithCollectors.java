@@ -29,7 +29,7 @@ public class EmployeeMaxMinWithCollectors {
         //TODO here we have created stream from list of String using .stream()
         // and we have used Collectors.maxBy method to get the min Age by passing employee salary inside comparing method
 
-//TODO 2. find employee with minimum age
+        //TODO 2. find employee with minimum age
 
         Optional<Employee> minAgeEmp =
                 employeeList.stream()

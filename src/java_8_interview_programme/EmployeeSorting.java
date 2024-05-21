@@ -61,13 +61,13 @@ public class EmployeeSorting {
         //TODO sort employee based on names on names and Salary
 
         Comparator<Employee> sortByName = (e1, e2) -> e1.getName().compareToIgnoreCase(e2.getName());
-//TODO here we have created name comparator to sort employee object by name
+        //TODO here we have created name comparator to sort employee object by name
         Comparator<Employee> sortBySalary = (e1, e2) -> Double.compare(e1.getSalary(), e2.getSalary());
-//TODO here we have created salary comparator to sort employee based on salary
-// Sort by Name then Sort by Salary
+        //TODO here we have created salary comparator to sort employee based on salary
+        // Sort by Name then Sort by Salary
         employeeList.stream().sorted(sortByName.thenComparing(sortBySalary)).forEach(e -> System.out.println("sort employee based on names and Salary :" + e));
 
-//TODO here we are using both comparator with sorted method to apply both comparator based on names and salary
+        //TODO here we are using both comparator with sorted method to apply both comparator based on names and salary
 
 
     }

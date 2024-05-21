@@ -4,10 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9234bd-1456-4a64-931e-1b57ff516c7f" name="Changes" comment="Factorial....">
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/EmployeeSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_8_interview_programme/StudentProgrammingQuestions.java" afterDir="false" />
+    <list default="true" id="ca9234bd-1456-4a64-931e-1b57ff516c7f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindFrequencyOfNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindFrequencyOfNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PalindromeStringProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeStringProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrintOneToTenWithoutUsingLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrintOneToTenWithoutUsingLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwapNumberWithoutThirdVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwapNumberWithoutThirdVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_8_interview_programme/A_FindMaximumAndMinimumList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_8_interview_programme/A_FindMaximumAndMinimumList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_8_interview_programme/B_FindSecondLargestInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_8_interview_programme/B_FindSecondLargestInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_8_interview_programme/C_SortListOfIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_8_interview_programme/C_SortListOfIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_8_interview_programme/D_1_FindDuplicateUsingString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_1_FindDuplicateUsingString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_8_interview_programme/D_2_RemoveDuplicateFromListOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_2_RemoveDuplicateFromListOfString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_8_interview_programme/D_3_FindStringWithLengthHigherThanFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_3_FindStringWithLengthHigherThanFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_8_interview_programme/D_4_SortingOfStringList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_4_SortingOfStringList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_8_interview_programme/D_5_CountLettersInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_5_CountLettersInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_8_interview_programme/D_6_ReverseStringUsingJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_8_interview_programme/D_6_ReverseStringUsingJava8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_8_interview_programme/EmployeeMaxMinWithCollectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_8_interview_programme/EmployeeMaxMinWithCollectors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_8_interview_programme/EmployeeSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_8_interview_programme/EmployeeSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_8_interview_programme/StudentProgrammingQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_8_interview_programme/StudentProgrammingQuestions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +62,15 @@
   }
 }</component>
   <component name="RunManager" selected="Application.StudentProgrammingQuestions">
-    <configuration name="D_5_CountLettersInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_8_interview_programme.D_5_CountLettersInString" />
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArmstrongNumber" />
+      <module name="java-8-interview-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B_FindSecondLargestInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_8_interview_programme.B_FindSecondLargestInArray" />
       <module name="java-8-interview-questions" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D_6_ReverseStringUsingJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_8_interview_programme.D_6_ReverseStringUsingJava8" />
+    <configuration name="D_3_FindStringWithLengthHigherThanFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_8_interview_programme.D_3_FindStringWithLengthHigherThanFive" />
       <module name="java-8-interview-questions" />
       <extension name="coverage">
         <pattern>
@@ -72,21 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeMaxMinWithCollectors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_8_interview_programme.EmployeeMaxMinWithCollectors" />
-      <module name="java-8-interview-questions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_8_interview_programme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmployeeSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_8_interview_programme.EmployeeSorting" />
+    <configuration name="D_4_SortingOfStringList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_8_interview_programme.D_4_SortingOfStringList" />
       <module name="java-8-interview-questions" />
       <extension name="coverage">
         <pattern>
@@ -114,10 +124,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.StudentProgrammingQuestions" />
-        <item itemvalue="Application.EmployeeSorting" />
-        <item itemvalue="Application.EmployeeMaxMinWithCollectors" />
-        <item itemvalue="Application.D_6_ReverseStringUsingJava8" />
-        <item itemvalue="Application.D_5_CountLettersInString" />
+        <item itemvalue="Application.D_4_SortingOfStringList" />
+        <item itemvalue="Application.D_3_FindStringWithLengthHigherThanFive" />
+        <item itemvalue="Application.B_FindSecondLargestInArray" />
+        <item itemvalue="Application.ArmstrongNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +316,31 @@
       <option name="project" value="LOCAL" />
       <updated>1715679331068</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="EmployeeSorting....">
+      <option name="closed" value="true" />
+      <created>1715679365421</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679365421</updated>
+    </task>
+    <task id="LOCAL-00024" summary="StudentProgrammingQuestions....">
+      <option name="closed" value="true" />
+      <created>1715679389429</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679389429</updated>
+    </task>
+    <task id="LOCAL-00025" summary="idea file workspace.xml">
+      <option name="closed" value="true" />
+      <created>1715679439956</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679439956</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -333,6 +367,9 @@
     <MESSAGE value="D_6_ReverseStringUsingJava8...." />
     <MESSAGE value="DemoA, DemoB, DemoC, DemoInterface...." />
     <MESSAGE value="EmployeeMaxMinWithCollectors...." />
-    <option name="LAST_COMMIT_MESSAGE" value="EmployeeMaxMinWithCollectors...." />
+    <MESSAGE value="EmployeeSorting...." />
+    <MESSAGE value="StudentProgrammingQuestions...." />
+    <MESSAGE value="idea file workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea file workspace.xml" />
   </component>
 </project>

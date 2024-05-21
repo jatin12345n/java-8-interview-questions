@@ -17,7 +17,7 @@ public class A_FindMaximumAndMinimumList {
         numbers.add(7);
 
         int max = numbers.stream().max(Integer::compare).get();
-        //TODO here we are using numbers.stream() to create from a numbers list
+        //TODO here we are using numbers.stream() to create stream from a numbers list
         // we have used max function to find to maximum element from the list
         // the get() method of the stream API is used to retrieve the result of an operation performed on a stream
 

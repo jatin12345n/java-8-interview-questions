@@ -20,11 +20,11 @@ public class D_3_FindStringWithLengthHigherThanFive {
                 .filter(s -> s.length() > 5)
                 .collect(Collectors.toList());
 
-        //TODO here we have created stream from list of string using strings.stream()
-        // after that we are using intermediate operation filter and passing lambda expression
-        // in this lambda s is a String input and after arrow we are checking length of String grater than 5
-        // if any string matches this condition then it will be filtered and we will be using terminal operation collect
-        // where we are Collecting output as a List so we are using Collectors.ToList() inside collect
+        // TODO here we have created stream from list of string using strings.stream()
+        //  after that we are using intermediate operation filter and passing lambda expression
+        //  in this lambda s is a String input and after arrow we are checking length of String grater than 5
+        //  if any string matches this condition then it will be filtered and we will be using terminal operation collect
+        //  where we are Collecting output as a List so we are using Collectors.ToList() inside collect
 
         System.out.println("Strings with length greater than 5: " + filteredStrings);
 

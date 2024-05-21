@@ -12,7 +12,7 @@ public class StudentProgrammingQuestions {
 
     public static void main(String[] args) {
 
-//TODO Q1. find the students section wise
+    //TODO Q1. find the students section wise
 
         List<Student> studentList = Arrays.asList(new Student("John", 22, "A"),
                 new Student("Jane", 21, "B"),
@@ -33,9 +33,9 @@ public class StudentProgrammingQuestions {
                 System.out.println(student.getName());
             }
         }
-// TODO Collectors.ToList that collects the values for each group into a list
-//  studentsBySection is a map where the keys are the section names,and values are list of students in that section
-//  Finally , we iterate over the entities in the studentBySection, printing the section name and the names of students in that section for each entry
+    // TODO Collectors.ToList that collects the values for each group into a list
+    //  studentsBySection is a map where the keys are the section names,and values are list of students in that section
+    //  Finally , we iterate over the entities in the studentBySection, printing the section name and the names of students in that section for each entry
 
 
         System.out.println(" ");
@@ -46,11 +46,11 @@ public class StudentProgrammingQuestions {
 
         }
 
-        //TODO The method students.stream() returns a Stream of Students objects, which is then passed to the collect method.
-        // The Collectors.groupingBy method takes a function that returns the section of each student, which is Student::getSection in this case.
-        // Finally, the collect method collects all the students in the Stream into the Map, Grouping them by their section using the gropingBy method.
-        // The resulting Map will have a String key representing the section, and a List of Student objects as the value,
-        // representing all students in that section
+    //TODO The method students.stream() returns a Stream of Students objects, which is then passed to the collect method.
+    // The Collectors.groupingBy method takes a function that returns the section of each student, which is Student::getSection in this case.
+    // Finally, the collect method collects all the students in the Stream into the Map, Grouping them by their section using the gropingBy method.
+    // The resulting Map will have a String key representing the section, and a List of Student objects as the value,
+    // representing all students in that section
 
 
         //TODO Q2. count total number of students with B Section
@@ -59,7 +59,7 @@ public class StudentProgrammingQuestions {
                 .filter(s -> s.getSection().equals("B"))
                 .count();
 
-        System.out.println("Total number of students with B section " + count);
+        System.out.println("Total number of students with B section are " + count);
 
 
     }

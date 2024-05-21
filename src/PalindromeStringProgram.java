@@ -8,7 +8,7 @@ public class PalindromeStringProgram {
 
         for (int i = (strLength - 1); i >= 0; --i) {
             //TODO HERE WE ARE ITERATING EVERY CHARACTER OF STRING STARTING FROM LAST TO FIRST CHARACTER
-            reverseStr = reverseStr + str.charAt(i);//TODO HERE WE ARE CONCATENATING CHARACTERS IN REVERSE ORDER SO THAT WE CAN GET REVERED STRING
+            reverseStr = reverseStr + str.charAt(i);//TODO HERE WE ARE CONCATENATING CHARACTERS IN REVERSE ORDER SO THAT WE CAN GET REVERSED STRING
 
         }
         if (str.toLowerCase().equals(reverseStr.toLowerCase()))
